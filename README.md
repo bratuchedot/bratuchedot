@@ -7,9 +7,9 @@ Student
 I am in the third year of undergraduate studies at the Faculty of Computer Science and Engineering in Skopje. My study program is Internet, networks and security. Currently, I am studying web programming using React as frontend and Spring Boot as backend technology.
 
 * 🌍  I'm based in Skopje, Macedonia
-* ✉️  You can contact me at [emilijankoteski@yahoo.com](mailto:emilijankoteski@yahoo.com)
-* 🚀  I'm currently working on [Board Games Site](http://github.com/bratuchedot/board-games-site)
-* 🧠  I'm learning ReactJS
+* ✉️  You can contact me at [emilijankoteski@pm.me](mailto:emilijankoteski@pm.me)
+* 🚀  I'm currently working on my first real project at [Inteligenta](https://inteligenta.io/).
+* 🧠  I'm learning React.js
 
 ### Skills
 

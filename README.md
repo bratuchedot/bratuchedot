@@ -8,7 +8,7 @@ I am in the fourth year of undergraduate studies at the Faculty of Computer Scie
 
 * 🌍  I'm based in Skopje, Macedonia
 * ✉️  You can contact me at [emilijankoteski@pm.me](mailto:emilijankoteski@pm.me)
-* 🚀  I'm currently working on my first real project at [Inteligenta](https://inteligenta.io/).
+* 🚀  I'm currently working on my second project at [Inteligenta](https://inteligenta.io/).
 * 🧠  I'm learning React.js
 
 ### Skills

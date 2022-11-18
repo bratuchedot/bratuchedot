@@ -1,7 +1,7 @@
 Hi 👋 My name is Emilijan Koteski
 =================================
 
-Student
+Student | Junior Software Developer
 -------
 
 I am in the fourth year of undergraduate studies at the Faculty of Computer Science and Engineering in Skopje, majoring in Internet, networks, and security. Currently, I am studying web programming using React as frontend and Spring Boot as backend technology. Currently, I am working as a software developer. 

@@ -4,7 +4,7 @@ Hi 👋 My name is Emilijan Koteski
 Student
 -------
 
-I am in the fourth year of undergraduate studies at the Faculty of Computer Science and Engineering in Skopje. My study program is Internet, networks and security. Currently, I am studying web programming using React as frontend and Spring Boot as backend technology.
+I am in the fourth year of undergraduate studies at the Faculty of Computer Science and Engineering in Skopje, majoring in Internet, networks, and security. Currently, I am studying web programming using React as frontend and Spring Boot as backend technology. Currently, I am working as a software developer. 
 
 * 🌍  I'm based in Skopje, Macedonia
 * ✉️  You can contact me at [emilijankoteski@pm.me](mailto:emilijankoteski@pm.me)

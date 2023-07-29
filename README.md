@@ -1,15 +1,15 @@
 Hi 👋 My name is Emilijan Koteski
 =================================
 
-Student | Junior Software Developer
+Student | Software Developer
 -------
 
 I am in the fourth year of undergraduate studies at the Faculty of Computer Science and Engineering in Skopje, majoring in Internet, networks, and security. Currently, I am studying web programming using React as frontend and Spring Boot as backend technology. Currently, I am working as a software developer. 
 
 * 🌍  I'm based in Skopje, Macedonia
 * ✉️  You can contact me at [emilijankoteski@pm.me](mailto:emilijankoteski@pm.me)
-* 🚀  I'm currently working on my second project at [Inteligenta](https://inteligenta.io/).
-* 🧠  I'm learning React.js
+* 🚀  I'm currently at [Inteligenta](https://inteligenta.io/)
+* 🧠  I'm learning React.js and Java Spring Boot
 
 ### Skills
 
